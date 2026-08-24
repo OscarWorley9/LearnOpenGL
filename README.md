@@ -4,7 +4,7 @@ Tracking my progress through [LearnOpenGL](https://learnopengl.com/).
 
 ## Progress
 
-### Getting Started
+### Basics
 - [x] Hello Window
 - [] Hello Triangle
 - [ ] Shaders
