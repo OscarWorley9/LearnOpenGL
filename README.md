@@ -26,10 +26,3 @@ Tracking my progress through [LearnOpenGL](https://learnopengl.com/).
 - [ ] Mesh Class
 - [ ] Model Class
 
-## Build Instructions
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
